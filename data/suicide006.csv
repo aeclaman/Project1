@@ -1,0 +1,53 @@
+Sourcebook of Criminal Justice Statistics Online,,,,,,,,,,,,,,,,
+http://www.albany.edu/sourcebook/csv/t31372006.csv,,,,,,,,,,,,,,,,
+
+Table 3.137.2006,,,,,,,,,,,,,,,,
+
+"Suicide rate (per 100,000 persons in each age group)",,,,,,,,,,,,,,,,
+
+"By age, sex, and race, United States, 2006",,,,,,,,,,,,,,,,
+
+,,,,,,,,,,,,Race and sex,,,,
+
+,,            Sex,,,,   Race,,,         White,,,          Black,,,         Other,
+Age,Total,Male,Female,,White,Black,Other,,Male,Female,,Male,Female,,Male,Female
+
+     Total,12.87,20.77,5.3,,14.31,5.92,7.96,,22.9,5.97,,10.72,1.63,,11.83,4.32
+
+10 to 14 years,1.05,1.43,0.65,,1.03,1.09,1.23\a\,,1.4,0.63,,1.73,0.42\a\,,0.96\a\,1.50\a\
+15 to 19 years,7.31,11.57,2.83,,7.81,4.17,9.43,,12.35,3.01,,6.98,1.28,,13.83,4.8
+20 to 24 years,12.55,20.9,3.62,,13.22,8.53,13.83,,22.03,3.72,,14.6,2.29,,21.61,5.69
+25 to 29 years,12.44,19.86,4.7,,13.48,8.64,8.65,,21.14,5.31,,15.74,1.91,,13.32,4
+30 to 34 years,12.37,19.81,4.74,,13.55,8.16,8,,21.3,5.39,,15.28,1.71,,12.14,3.98
+35 to 39 years,14.75,22.79,6.63,,16.51,8.2,7.24,,25.03,7.69,,14.95,2.18,,10.86,3.75
+40 to 44 years,15.49,23.67,7.37,,17.48,6.52,8.42,,26.36,8.47,,11.43,2.19,,12.27,4.74
+45 to 49 years,17.1,26.02,8.39,,19.35,6.14,8.37,,29.07,9.65,,10.91,1.99,,11.8,5.24
+50 to 54 years,17.27,26.45,8.46,,19.5,5.78,7.63,,29.5,9.69,,9.95,2.26,,11.67,4.06
+55 to 59 years,15.34,23.94,7.22,,17.16,4.98,6.68,,26.39,8.26,,9.3,1.42\a\,,10.65,3.22\a\
+60 to 64 years,13.42,21.15,6.35,,14.77,4.65,6.78,,23.06,7.05,,8.31,1.79\a\,,10.14,3.85\a\
+65 to 69 years,12.58,21.98,4.36,,13.77,4.08,8.27,,23.83,4.81,,8.67,0.69\a\,,12.9,4.25\a\
+70 to 74 years,12.64,23.62,3.72,,13.83,4.26,7.06,,25.85,3.85,,8.92,1.06\a\,,6.83\a\,7.25\a\
+75 to 79 years,15.58,31.61,3.85,,16.89,4.52,8.7,,34.01,4.1,,11.62,0.27\a\,,12.26\a\,6.18\a\
+80 to 84 years,16.3,35.67,4.18,,17.59,4.26\a\,8.18\a\,,38.61,4.32,,11.65\a\,0.36\a\,,5.39\a\,10.07\a\
+85 years and older,15.89,43.37,3.08,,16.97,5.72,7.96\a\,,46.3,3.24,,17.04\a\,1.10\a\,,16.24\a\,3.15\a\
+
+Note: These data are based on information from all death certificates filed in the 50 
+States and the District of Columbia. The mortality data files are maintained by the 
+National Center for Health Statistics (NCHS) at the Centers for Disease Control and 
+Prevention. Rates for decennial years were calculated using U.S. Census Bureau 
+decennial census counts; population estimates produced by the Census Bureau 
+were used for noncensus years. The NCHS revised the cause of death coding 
+beginning in 1999. The user is cautioned when making trend comparisons of data 
+from 1999 and later to those from 1998 and earlier; observed changes in numbers 
+or rates may be the result of the coding revisions.
+     Suicide rates for ages under 10 years have been omitted because of low 
+incidence. A category including cases where the age is unknown also has been 
+omitted; this category also comprises a small number of cases each year. Some 
+data have been revised by the Source and may differ from previous editions of 
+SOURCEBOOK.
+
+\a\Rate based on 20 or fewer deaths.
+
+"Source: U.S. Department of Health and Human Services, Centers for Disease Control and "
+"Prevention, National Center for Injury Prevention and Control [Online]. Available: "
+"http://webappa.cdc.gov/sasweb/ncipc/mortrate10_sy.html [June 12, 2009]."
