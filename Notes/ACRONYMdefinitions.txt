@@ -1,0 +1,20 @@
+acronyms:
+
+DSU: Data do not meet the criteria for statistical reliability, data quality, or confidentiality.
+
+DNC: data not collected
+	
+MOE:  Margin of Error, a statistic expressing the amount of random sampling error in a survey's results, OR asserting a likelihood (not certainty) that the result from this sample is close to the number one would get if the whole population had been included.
+     Census Bureau data is computed at a 90% confidence level (p=0.10), or with 90% confidence (there is a 90% chance) that the true value for the population is within the bounds of this sample’s margin of error. For ACS PUMS data, estimates and margins of error are computed by aggregating the records in the PUMS files, using the provided replicate weights:
+     MarginOfError(X) = Z * StandardError(X)   
+     Where, Xr is a replicate estimate, X is the full PUMS weighted estimate, and Z=1.645 for the 90% confidence interval
+
+
+RCA:  Revealed Comparative Advantage is a calculation using a) the share of the number of citizens in a location engaged with a given characteristic and b) the share of the total number of those individuals out of all alternate characteristics in that category or classification. Why? b/c if we were to use nominal values, the most populated subclass would always dominate and if we use percentages, smaller subclasses (eg. rare occupations) would dominate, biasing the dataset. The RCA calculation demonstrates which classifications are being over (or under) expressed.
+     g = location, o = occupation, 
+     X = # Employees
+     RCA = [  X (of g+o) *
+	sum X​​ (across all g of EACH o)   ]   \
+	[  sum  X (across g) *  
+	sum all X (across o)  ]
+

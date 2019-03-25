@@ -1,0 +1,3 @@
+sex,crudeNumber,crudeRate,ageAdjustedRate,appliedFilters
+Males,"221,325",78.7,82.0,"Start Year: 2001, End Year: 2002, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+Females,"97,022",33.3,31.3,"Start Year: 2001, End Year: 2002, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
