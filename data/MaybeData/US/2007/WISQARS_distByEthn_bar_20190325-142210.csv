@@ -1,0 +1,5 @@
+ethn,crudeNumber,crudeRate,ageAdjustedRate,population,appliedFilters
+White,"151,260",62.7,60.2,241390828,"Start Year: 2007, End Year: 2007, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+Black,"25,274",62.5,64.7,40451108,"Start Year: 2007, End Year: 2007, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+"American Indian, Eskimo, Aleut","2,408",62.9,69.4,3829898,"Start Year: 2007, End Year: 2007, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
+"Asian, Pacific Islander","3,537",22.7,25.5,15559373,"Start Year: 2007, End Year: 2007, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
