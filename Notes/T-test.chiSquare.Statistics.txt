@@ -1,0 +1,48 @@
+
+The Difference Between a T-Test & a Chi Square
+
+BOTH are designed to test, and possibly reject, a NULL hypothesis. 
+The null hypothesis usually states that something is zero, or does not exist. 
+For example, you could test the hypothesis that the difference between two means is zero, or you could test the hypothesis that there is no relationship between two variables.
+
+Null Hypothesis Tested
+A T-TEST tests a null hypothesis about two means; 
+most often, it tests the hypothesis that two means are equal, 
+or that the difference between them is zero. 
+For example, whether boys and girls in fourth grade have the same average height.
+
+CHI-SQUARED tests a null hypothesis about the relationship between two variables. 
+For example, that men and women are equally likely to vote the same party ticket.
+
+
+Types of Data
+A T-TEST requires two variables; 
+	one must be categorical and have exactly two levels, 
+	the other must be quantitative and be estimable by a mean. 
+For example, Republican or Democrat, and age.
+
+A CHI-SQUARE test requires categorical variables, usually only two, 
+	but each may have any number of levels. 
+For example, ethnic groups and presidential choice.
+
+
+
+Variations
+There are variations of the T-TEST to cover 
+	paired data; for example, husbands and wives, or right and left eyes. 
+
+There are variations of the CHI-SQUARED to deal with 
+	ordinal data -- like "none," "a little," "some," "a lot" — 
+	more than two variables.
+
+Conclusions
+The T-TEST allows you to say EITHER 
+	"we <<can reject>> the null hypothesis of <<equal means>> at the 0.05 level" OR 
+	"we <<have insufficient evidence to reject>> the null of equal means at the 0.05 level." 
+A CHI-SQUARE test allows you to say EITHER 
+	"we <<can reject>> the null hypothesis of <<no relationship>> at the 0.05 level" OR 
+	"we have insufficient evidence to reject the null at the 0.05 level."
+
+
+
+

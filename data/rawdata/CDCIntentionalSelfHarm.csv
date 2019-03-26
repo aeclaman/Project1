@@ -1,0 +1,896 @@
+﻿State,State Code,Ten-Year Age Groups,Ten-Year Age Groups Code,Gender,Gender Code,Deaths,Population,Crude Rate
+Alabama,1,5-14 years,5-14,Female,F,28,5800973,0.5
+Alabama,1,5-14 years,5-14,Male,M,71,6065966,1.2
+Alabama,1,15-24 years,15-24,Female,F,185,6214696,3
+Alabama,1,15-24 years,15-24,Male,M,1257,6327206,19.9
+Alabama,1,25-34 years,25-34,Female,F,330,5846272,5.6
+Alabama,1,25-34 years,25-34,Male,M,1589,5678498,28
+Alabama,1,35-44 years,35-44,Female,F,519,6158050,8.4
+Alabama,1,35-44 years,35-44,Male,M,1696,5882549,28.8
+Alabama,1,45-54 years,45-54,Female,F,547,6385531,8.6
+Alabama,1,45-54 years,45-54,Male,M,1802,6037822,29.8
+Alabama,1,55-64 years,55-64,Female,F,411,5414228,7.6
+Alabama,1,55-64 years,55-64,Male,M,1447,4935101,29.3
+Alabama,1,65-74 years,65-74,Female,F,191,3832617,5
+Alabama,1,65-74 years,65-74,Male,M,958,3207791,29.9
+Alabama,1,75-84 years,75-84,Female,F,104,2418788,4.3
+Alabama,1,75-84 years,75-84,Male,M,679,1609834,42.2
+Alabama,1,85+ years,85+,Female,F,21,990988,2.1
+Alabama,1,85+ years,85+,Male,M,232,420645,55.2
+Alaska,2,5-14 years,5-14,Female,F,11,956801,Unreliable
+Alaska,2,5-14 years,5-14,Male,M,27,1009699,2.7
+Alaska,2,15-24 years,15-24,Female,F,143,911855,15.7
+Alaska,2,15-24 years,15-24,Male,M,597,1074644,55.6
+Alaska,2,25-34 years,25-34,Female,F,109,907303,12
+Alaska,2,25-34 years,25-34,Male,M,493,998923,49.4
+Alaska,2,35-44 years,35-44,Female,F,112,907065,12.3
+Alaska,2,35-44 years,35-44,Male,M,384,965241,39.8
+Alaska,2,45-54 years,45-54,Female,F,130,938891,13.8
+Alaska,2,45-54 years,45-54,Male,M,372,1026308,36.2
+Alaska,2,55-64 years,55-64,Female,F,72,668087,10.8
+Alaska,2,55-64 years,55-64,Male,M,224,747104,30
+Alaska,2,65-74 years,65-74,Female,F,16,317573,Unreliable
+Alaska,2,65-74 years,65-74,Male,M,97,337087,28.8
+Alaska,2,75-84 years,75-84,Male,M,56,125675,44.6
+Alaska,2,85+ years,85+,Male,M,25,29543,84.6
+Arizona,4,5-14 years,5-14,Female,F,58,7984123,0.7
+Arizona,4,5-14 years,5-14,Male,M,117,8335845,1.4
+Arizona,4,15-24 years,15-24,Female,F,462,7909497,5.8
+Arizona,4,15-24 years,15-24,Male,M,2082,8516772,24.4
+Arizona,4,25-34 years,25-34,Female,F,637,7729821,8.2
+Arizona,4,25-34 years,25-34,Male,M,2486,8228036,30.2
+Arizona,4,35-44 years,35-44,Female,F,775,7652170,10.1
+Arizona,4,35-44 years,35-44,Male,M,2489,7818065,31.8
+Arizona,4,45-54 years,45-54,Female,F,984,7490474,13.1
+Arizona,4,45-54 years,45-54,Male,M,2804,7266650,38.6
+Arizona,4,55-64 years,55-64,Female,F,782,6555065,11.9
+Arizona,4,55-64 years,55-64,Male,M,2071,5950292,34.8
+Arizona,4,65-74 years,65-74,Female,F,367,4898287,7.5
+Arizona,4,65-74 years,65-74,Male,M,1415,4396139,32.2
+Arizona,4,75-84 years,75-84,Female,F,200,2948377,6.8
+Arizona,4,75-84 years,75-84,Male,M,1230,2432601,50.6
+Arizona,4,85+ years,85+,Female,F,76,1176118,6.5
+Arizona,4,85+ years,85+,Male,M,509,687367,74.1
+Arizona,4,Not Stated,NS,Male,M,10,Not Applicable,Not Applicable
+Arkansas,5,5-14 years,5-14,Female,F,30,3599222,0.8
+Arkansas,5,5-14 years,5-14,Male,M,48,3771181,1.3
+Arkansas,5,15-24 years,15-24,Female,F,150,3698070,4.1
+Arkansas,5,15-24 years,15-24,Male,M,907,3844753,23.6
+Arkansas,5,25-34 years,25-34,Female,F,254,3505906,7.2
+Arkansas,5,25-34 years,25-34,Male,M,1165,3528965,33
+Arkansas,5,35-44 years,35-44,Female,F,399,3596684,11.1
+Arkansas,5,35-44 years,35-44,Male,M,1207,3551680,34
+Arkansas,5,45-54 years,45-54,Female,F,414,3692822,11.2
+Arkansas,5,45-54 years,45-54,Male,M,1212,3571724,33.9
+Arkansas,5,55-64 years,55-64,Female,F,294,3224037,9.1
+Arkansas,5,55-64 years,55-64,Male,M,881,2990964,29.5
+Arkansas,5,65-74 years,65-74,Female,F,118,2352921,5
+Arkansas,5,65-74 years,65-74,Male,M,611,2045080,29.9
+Arkansas,5,75-84 years,75-84,Female,F,53,1497496,3.5
+Arkansas,5,75-84 years,75-84,Male,M,471,1070732,44
+Arkansas,5,85+ years,85+,Female,F,19,656247,Unreliable
+Arkansas,5,85+ years,85+,Male,M,167,305330,54.7
+California,6,5-14 years,5-14,Female,F,147,47900391,0.3
+California,6,5-14 years,5-14,Male,M,284,50133402,0.6
+California,6,15-24 years,15-24,Female,F,1522,48870169,3.1
+California,6,15-24 years,15-24,Male,M,6163,52583410,11.7
+California,6,25-34 years,25-34,Female,F,2021,50066081,4
+California,6,25-34 years,25-34,Male,M,8154,52646057,15.5
+California,6,35-44 years,35-44,Female,F,2799,50121819,5.6
+California,6,35-44 years,35-44,Male,M,8949,50895350,17.6
+California,6,45-54 years,45-54,Female,F,3765,47600929,7.9
+California,6,45-54 years,45-54,Male,M,10583,46840070,22.6
+California,6,55-64 years,55-64,Female,F,2788,36577475,7.6
+California,6,55-64 years,55-64,Male,M,8362,34164125,24.5
+California,6,65-74 years,65-74,Female,F,1302,23577678,5.5
+California,6,65-74 years,65-74,Male,M,4759,20220946,23.5
+California,6,75-84 years,75-84,Female,F,859,15262326,5.6
+California,6,75-84 years,75-84,Male,M,4226,11166249,37.8
+California,6,85+ years,85+,Female,F,446,7031316,6.3
+California,6,85+ years,85+,Male,M,2074,3721634,55.7
+California,6,Not Stated,NS,Male,M,21,Not Applicable,Not Applicable
+Colorado,8,5-14 years,5-14,Female,F,58,6152475,0.9
+Colorado,8,5-14 years,5-14,Male,M,141,6450185,2.2
+Colorado,8,15-24 years,15-24,Female,F,466,6212809,7.5
+Colorado,8,15-24 years,15-24,Male,M,1787,6772124,26.4
+Colorado,8,25-34 years,25-34,Female,F,549,6641347,8.3
+Colorado,8,25-34 years,25-34,Male,M,2212,7167877,30.9
+Colorado,8,35-44 years,35-44,Female,F,724,6700485,10.8
+Colorado,8,35-44 years,35-44,Male,M,2411,6967997,34.6
+Colorado,8,45-54 years,45-54,Female,F,928,6650604,14
+Colorado,8,45-54 years,45-54,Male,M,2641,6639949,39.8
+Colorado,8,55-64 years,55-64,Female,F,595,5167608,11.5
+Colorado,8,55-64 years,55-64,Male,M,1823,4994831,36.5
+Colorado,8,65-74 years,65-74,Female,F,235,3101249,7.6
+Colorado,8,65-74 years,65-74,Male,M,906,2806946,32.3
+Colorado,8,75-84 years,75-84,Female,F,123,1831091,6.7
+Colorado,8,75-84 years,75-84,Male,M,637,1363316,46.7
+Colorado,8,85+ years,85+,Female,F,45,837981,5.4
+Colorado,8,85+ years,85+,Male,M,308,411187,74.9
+Connecticut,9,5-14 years,5-14,Female,F,23,4305172,0.5
+Connecticut,9,5-14 years,5-14,Male,M,21,4508049,0.5
+Connecticut,9,15-24 years,15-24,Female,F,136,4274490,3.2
+Connecticut,9,15-24 years,15-24,Male,M,531,4521245,11.7
+Connecticut,9,25-34 years,25-34,Female,F,169,4085859,4.1
+Connecticut,9,25-34 years,25-34,Male,M,633,4071707,15.5
+Connecticut,9,35-44 years,35-44,Female,F,266,4931287,5.4
+Connecticut,9,35-44 years,35-44,Male,M,865,4716997,18.3
+Connecticut,9,45-54 years,45-54,Female,F,365,5217065,7
+Connecticut,9,45-54 years,45-54,Male,M,1138,4960608,22.9
+Connecticut,9,55-64 years,55-64,Female,F,254,4086941,6.2
+Connecticut,9,55-64 years,55-64,Male,M,793,3795436,20.9
+Connecticut,9,65-74 years,65-74,Female,F,96,2659672,3.6
+Connecticut,9,65-74 years,65-74,Male,M,355,2252997,15.8
+Connecticut,9,75-84 years,75-84,Female,F,70,1919308,3.6
+Connecticut,9,75-84 years,75-84,Male,M,281,1315813,21.4
+Connecticut,9,85+ years,85+,Female,F,41,1040635,3.9
+Connecticut,9,85+ years,85+,Male,M,113,471888,23.9
+Delaware,10,15-24 years,15-24,Female,F,38,1135222,3.3
+Delaware,10,15-24 years,15-24,Male,M,195,1150774,16.9
+Delaware,10,25-34 years,25-34,Female,F,63,1089133,5.8
+Delaware,10,25-34 years,25-34,Male,M,231,1066419,21.7
+Delaware,10,35-44 years,35-44,Female,F,69,1160023,5.9
+Delaware,10,35-44 years,35-44,Male,M,291,1106228,26.3
+Delaware,10,45-54 years,45-54,Female,F,104,1210388,8.6
+Delaware,10,45-54 years,45-54,Male,M,372,1126820,33
+Delaware,10,55-64 years,55-64,Female,F,68,1033622,6.6
+Delaware,10,55-64 years,55-64,Male,M,220,920243,23.9
+Delaware,10,65-74 years,65-74,Female,F,28,738694,3.8
+Delaware,10,65-74 years,65-74,Male,M,109,638259,17.1
+Delaware,10,75-84 years,75-84,Female,F,20,444924,4.5
+Delaware,10,75-84 years,75-84,Male,M,79,330758,23.9
+Delaware,10,85+ years,85+,Female,F,10,188043,Unreliable
+Delaware,10,85+ years,85+,Male,M,45,90369,49.8
+District of Columbia,11,15-24 years,15-24,Female,F,18,963291,Unreliable
+District of Columbia,11,15-24 years,15-24,Male,M,74,832470,8.9
+District of Columbia,11,25-34 years,25-34,Female,F,31,1225965,2.5
+District of Columbia,11,25-34 years,25-34,Male,M,104,1103076,9.4
+District of Columbia,11,35-44 years,35-44,Female,F,30,824057,3.6
+District of Columbia,11,35-44 years,35-44,Male,M,118,831446,14.2
+District of Columbia,11,45-54 years,45-54,Female,F,24,736812,3.3
+District of Columbia,11,45-54 years,45-54,Male,M,84,703173,11.9
+District of Columbia,11,55-64 years,55-64,Female,F,21,627634,3.3
+District of Columbia,11,55-64 years,55-64,Male,M,76,536422,14.2
+District of Columbia,11,65-74 years,65-74,Female,F,21,405475,5.2
+District of Columbia,11,65-74 years,65-74,Male,M,48,312411,15.4
+District of Columbia,11,75-84 years,75-84,Male,M,14,164226,Unreliable
+District of Columbia,11,85+ years,85+,Male,M,14,56170,Unreliable
+Florida,12,5-14 years,5-14,Female,F,74,20406137,0.4
+Florida,12,5-14 years,5-14,Male,M,182,21356305,0.9
+Florida,12,15-24 years,15-24,Female,F,808,21572745,3.7
+Florida,12,15-24 years,15-24,Male,M,3492,22732520,15.4
+Florida,12,25-34 years,25-34,Female,F,1302,21721694,6
+Florida,12,25-34 years,25-34,Male,M,4990,22084208,22.6
+Florida,12,35-44 years,35-44,Female,F,2189,23776765,9.2
+Florida,12,35-44 years,35-44,Male,M,6243,23484072,26.6
+Florida,12,45-54 years,45-54,Female,F,2974,24707229,12
+Florida,12,45-54 years,45-54,Male,M,7960,23577269,33.8
+Florida,12,55-64 years,55-64,Female,F,2145,21902325,9.8
+Florida,12,55-64 years,55-64,Male,M,6323,19567060,32.3
+Florida,12,65-74 years,65-74,Female,F,1112,17664336,6.3
+Florida,12,65-74 years,65-74,Male,M,4257,15350947,27.7
+Florida,12,75-84 years,75-84,Female,F,670,11899618,5.6
+Florida,12,75-84 years,75-84,Male,M,3686,9353101,39.4
+Florida,12,85+ years,85+,Female,F,327,5114025,6.4
+Florida,12,85+ years,85+,Male,M,1782,2937153,60.7
+Florida,12,Not Stated,NS,Male,M,12,Not Applicable,Not Applicable
+Georgia,13,5-14 years,5-14,Female,F,54,12425326,0.4
+Georgia,13,5-14 years,5-14,Male,M,125,12944306,1
+Georgia,13,15-24 years,15-24,Female,F,413,12442659,3.3
+Georgia,13,15-24 years,15-24,Male,M,2179,13084537,16.7
+Georgia,13,25-34 years,25-34,Female,F,645,12795825,5
+Georgia,13,25-34 years,25-34,Male,M,2724,12651072,21.5
+Georgia,13,35-44 years,35-44,Female,F,898,13367434,6.7
+Georgia,13,35-44 years,35-44,Male,M,2880,12901556,22.3
+Georgia,13,45-54 years,45-54,Female,F,1119,12626411,8.9
+Georgia,13,45-54 years,45-54,Male,M,3116,11968959,26
+Georgia,13,55-64 years,55-64,Female,F,728,9706711,7.5
+Georgia,13,55-64 years,55-64,Male,M,2350,8806466,26.7
+Georgia,13,65-74 years,65-74,Female,F,338,6155528,5.5
+Georgia,13,65-74 years,65-74,Male,M,1438,5157882,27.9
+Georgia,13,75-84 years,75-84,Female,F,155,3547890,4.4
+Georgia,13,75-84 years,75-84,Male,M,995,2348499,42.4
+Georgia,13,85+ years,85+,Female,F,49,1479424,3.3
+Georgia,13,85+ years,85+,Male,M,343,610059,56.2
+Hawaii,15,5-14 years,5-14,Male,M,16,1620334,Unreliable
+Hawaii,15,15-24 years,15-24,Female,F,92,1568219,5.9
+Hawaii,15,15-24 years,15-24,Male,M,348,1821823,19.1
+Hawaii,15,25-34 years,25-34,Female,F,113,1691105,6.7
+Hawaii,15,25-34 years,25-34,Male,M,428,1840771,23.3
+Hawaii,15,35-44 years,35-44,Female,F,96,1694486,5.7
+Hawaii,15,35-44 years,35-44,Male,M,430,1738559,24.7
+Hawaii,15,45-54 years,45-54,Female,F,151,1743554,8.7
+Hawaii,15,45-54 years,45-54,Male,M,423,1744397,24.2
+Hawaii,15,55-64 years,55-64,Female,F,106,1491632,7.1
+Hawaii,15,55-64 years,55-64,Male,M,332,1451400,22.9
+Hawaii,15,65-74 years,65-74,Female,F,53,1027977,5.2
+Hawaii,15,65-74 years,65-74,Male,M,179,915342,19.6
+Hawaii,15,75-84 years,75-84,Female,F,49,690791,7.1
+Hawaii,15,75-84 years,75-84,Male,M,93,518097,18
+Hawaii,15,85+ years,85+,Female,F,16,331433,Unreliable
+Hawaii,15,85+ years,85+,Male,M,64,198769,32.2
+Idaho,16,5-14 years,5-14,Female,F,17,2108340,Unreliable
+Idaho,16,5-14 years,5-14,Male,M,48,2223001,2.2
+Idaho,16,15-24 years,15-24,Female,F,124,2047557,6.1
+Idaho,16,15-24 years,15-24,Male,M,634,2157343,29.4
+Idaho,16,25-34 years,25-34,Female,F,146,1830499,8
+Idaho,16,25-34 years,25-34,Male,M,588,1910931,30.8
+Idaho,16,35-44 years,35-44,Female,F,228,1829783,12.5
+Idaho,16,35-44 years,35-44,Male,M,710,1870461,38
+Idaho,16,45-54 years,45-54,Female,F,238,1860914,12.8
+Idaho,16,45-54 years,45-54,Male,M,730,1852502,39.4
+Idaho,16,55-64 years,55-64,Female,F,163,1558373,10.5
+Idaho,16,55-64 years,55-64,Male,M,566,1532936,36.9
+Idaho,16,65-74 years,65-74,Female,F,57,1039285,5.5
+Idaho,16,65-74 years,65-74,Male,M,356,992038,35.9
+Idaho,16,75-84 years,75-84,Female,F,23,630854,3.6
+Idaho,16,75-84 years,75-84,Male,M,270,511340,52.8
+Idaho,16,85+ years,85+,Male,M,129,158791,81.2
+Illinois,17,5-14 years,5-14,Female,F,68,16223708,0.4
+Illinois,17,5-14 years,5-14,Male,M,132,16947170,0.8
+Illinois,17,15-24 years,15-24,Female,F,536,16453639,3.3
+Illinois,17,15-24 years,15-24,Male,M,2429,17287939,14.1
+Illinois,17,25-34 years,25-34,Female,F,655,16738770,3.9
+Illinois,17,25-34 years,25-34,Male,M,2943,16969421,17.3
+Illinois,17,35-44 years,35-44,Female,F,909,17146088,5.3
+Illinois,17,35-44 years,35-44,Male,M,3369,17000107,19.8
+Illinois,17,45-54 years,45-54,Female,F,1082,17072740,6.3
+Illinois,17,45-54 years,45-54,Male,M,3600,16524697,21.8
+Illinois,17,55-64 years,55-64,Female,F,744,13515054,5.5
+Illinois,17,55-64 years,55-64,Male,M,2556,12562489,20.3
+Illinois,17,65-74 years,65-74,Female,F,311,8908751,3.5
+Illinois,17,65-74 years,65-74,Male,M,1365,7487244,18.2
+Illinois,17,75-84 years,75-84,Female,F,197,6078492,3.2
+Illinois,17,75-84 years,75-84,Male,M,1100,4117989,26.7
+Illinois,17,85+ years,85+,Female,F,73,2978388,2.5
+Illinois,17,85+ years,85+,Male,M,483,1313917,36.8
+Indiana,18,5-14 years,5-14,Female,F,28,8243904,0.3
+Indiana,18,5-14 years,5-14,Male,M,103,8648601,1.2
+Indiana,18,15-24 years,15-24,Female,F,319,8550315,3.7
+Indiana,18,15-24 years,15-24,Male,M,1711,8907455,19.2
+Indiana,18,25-34 years,25-34,Female,F,489,7839701,6.2
+Indiana,18,25-34 years,25-34,Male,M,2238,7933765,28.2
+Indiana,18,35-44 years,35-44,Female,F,691,8326630,8.3
+Indiana,18,35-44 years,35-44,Male,M,2423,8317778,29.1
+Indiana,18,45-54 years,45-54,Female,F,755,8547976,8.8
+Indiana,18,45-54 years,45-54,Male,M,2620,8397924,31.2
+Indiana,18,55-64 years,55-64,Female,F,491,6956581,7.1
+Indiana,18,55-64 years,55-64,Male,M,1662,6571056,25.3
+Indiana,18,65-74 years,65-74,Female,F,169,4660292,3.6
+Indiana,18,65-74 years,65-74,Male,M,976,3987228,24.5
+Indiana,18,75-84 years,75-84,Female,F,84,3123475,2.7
+Indiana,18,75-84 years,75-84,Male,M,759,2129814,35.6
+Indiana,18,85+ years,85+,Female,F,29,1451309,2
+Indiana,18,85+ years,85+,Male,M,307,638638,48.1
+Iowa,19,5-14 years,5-14,Female,F,24,3749582,0.6
+Iowa,19,5-14 years,5-14,Male,M,47,3942937,1.2
+Iowa,19,15-24 years,15-24,Female,F,151,4049078,3.7
+Iowa,19,15-24 years,15-24,Male,M,934,4266927,21.9
+Iowa,19,25-34 years,25-34,Female,F,195,3463502,5.6
+Iowa,19,25-34 years,25-34,Male,M,906,3610925,25.1
+Iowa,19,35-44 years,35-44,Female,F,281,3685998,7.6
+Iowa,19,35-44 years,35-44,Male,M,1043,3745984,27.8
+Iowa,19,45-54 years,45-54,Female,F,346,3954606,8.7
+Iowa,19,45-54 years,45-54,Male,M,1104,3974994,27.8
+Iowa,19,55-64 years,55-64,Female,F,174,3299651,5.3
+Iowa,19,55-64 years,55-64,Male,M,740,3225967,22.9
+Iowa,19,65-74 years,65-74,Female,F,85,2321848,3.7
+Iowa,19,65-74 years,65-74,Male,M,428,2046748,20.9
+Iowa,19,75-84 years,75-84,Female,F,40,1743426,2.3
+Iowa,19,75-84 years,75-84,Male,M,324,1232295,26.3
+Iowa,19,85+ years,85+,Female,F,24,955691,2.5
+Iowa,19,85+ years,85+,Male,M,179,423551,42.3
+Kansas,20,5-14 years,5-14,Female,F,19,3675182,Unreliable
+Kansas,20,5-14 years,5-14,Male,M,51,3872995,1.3
+Kansas,20,15-24 years,15-24,Female,F,175,3790639,4.6
+Kansas,20,15-24 years,15-24,Male,M,968,4074580,23.8
+Kansas,20,25-34 years,25-34,Female,F,214,3382527,6.3
+Kansas,20,25-34 years,25-34,Male,M,1083,3530333,30.7
+Kansas,20,35-44 years,35-44,Female,F,314,3488401,9
+Kansas,20,35-44 years,35-44,Male,M,1059,3528849,30
+Kansas,20,45-54 years,45-54,Female,F,347,3636698,9.5
+Kansas,20,45-54 years,45-54,Male,M,1171,3608907,32.4
+Kansas,20,55-64 years,55-64,Female,F,246,2933087,8.4
+Kansas,20,55-64 years,55-64,Male,M,766,2829583,27.1
+Kansas,20,65-74 years,65-74,Female,F,79,1970776,4
+Kansas,20,65-74 years,65-74,Male,M,453,1732291,26.2
+Kansas,20,75-84 years,75-84,Female,F,44,1418327,3.1
+Kansas,20,75-84 years,75-84,Male,M,378,1016304,37.2
+Kansas,20,85+ years,85+,Female,F,20,751412,2.7
+Kansas,20,85+ years,85+,Male,M,149,349045,42.7
+Kentucky,21,5-14 years,5-14,Female,F,19,5204339,Unreliable
+Kentucky,21,5-14 years,5-14,Male,M,57,5476132,1
+Kentucky,21,15-24 years,15-24,Female,F,220,5444297,4
+Kentucky,21,15-24 years,15-24,Male,M,1175,5711590,20.6
+Kentucky,21,25-34 years,25-34,Female,F,360,5313840,6.8
+Kentucky,21,25-34 years,25-34,Male,M,1628,5384673,30.2
+Kentucky,21,35-44 years,35-44,Female,F,505,5658299,8.9
+Kentucky,21,35-44 years,35-44,Male,M,1880,5625826,33.4
+Kentucky,21,45-54 years,45-54,Female,F,566,5857420,9.7
+Kentucky,21,45-54 years,45-54,Male,M,1903,5680372,33.5
+Kentucky,21,55-64 years,55-64,Female,F,345,4876877,7.1
+Kentucky,21,55-64 years,55-64,Male,M,1304,4559064,28.6
+Kentucky,21,65-74 years,65-74,Female,F,159,3318067,4.8
+Kentucky,21,65-74 years,65-74,Male,M,907,2851979,31.8
+Kentucky,21,75-84 years,75-84,Female,F,72,2085300,3.5
+Kentucky,21,75-84 years,75-84,Male,M,604,1420800,42.5
+Kentucky,21,85+ years,85+,Female,F,15,890703,Unreliable
+Kentucky,21,85+ years,85+,Male,M,215,382265,56.2
+Louisiana,22,5-14 years,5-14,Female,F,24,5878895,0.4
+Louisiana,22,5-14 years,5-14,Male,M,73,6137207,1.2
+Louisiana,22,15-24 years,15-24,Female,F,230,6329102,3.6
+Louisiana,22,15-24 years,15-24,Male,M,1257,6427453,19.6
+Louisiana,22,25-34 years,25-34,Female,F,361,5937120,6.1
+Louisiana,22,25-34 years,25-34,Male,M,1588,5855944,27.1
+Louisiana,22,35-44 years,35-44,Female,F,445,5870278,7.6
+Louisiana,22,35-44 years,35-44,Male,M,1478,5673680,26.1
+Louisiana,22,45-54 years,45-54,Female,F,517,6065416,8.5
+Louisiana,22,45-54 years,45-54,Male,M,1520,5783545,26.3
+Louisiana,22,55-64 years,55-64,Female,F,337,4941469,6.8
+Louisiana,22,55-64 years,55-64,Male,M,1071,4553721,23.5
+Louisiana,22,65-74 years,65-74,Female,F,151,3297667,4.6
+Louisiana,22,65-74 years,65-74,Male,M,731,2759582,26.5
+Louisiana,22,75-84 years,75-84,Female,F,70,2080917,3.4
+Louisiana,22,75-84 years,75-84,Male,M,509,1404565,36.2
+Louisiana,22,85+ years,85+,Female,F,21,855036,2.5
+Louisiana,22,85+ years,85+,Male,M,192,388045,49.5
+Maine,23,5-14 years,5-14,Male,M,16,1540514,Unreliable
+Maine,23,15-24 years,15-24,Female,F,66,1537083,4.3
+Maine,23,15-24 years,15-24,Male,M,352,1611785,21.8
+Maine,23,25-34 years,25-34,Female,F,81,1441201,5.6
+Maine,23,25-34 years,25-34,Male,M,406,1410966,28.8
+Maine,23,35-44 years,35-44,Female,F,163,1761676,9.3
+Maine,23,35-44 years,35-44,Male,M,483,1698508,28.4
+Maine,23,45-54 years,45-54,Female,F,197,1992911,9.9
+Maine,23,45-54 years,45-54,Male,M,617,1924149,32.1
+Maine,23,55-64 years,55-64,Female,F,143,1690860,8.5
+Maine,23,55-64 years,55-64,Male,M,461,1619368,28.5
+Maine,23,65-74 years,65-74,Female,F,48,1145438,4.2
+Maine,23,65-74 years,65-74,Male,M,286,1033979,27.7
+Maine,23,75-84 years,75-84,Female,F,26,758044,3.4
+Maine,23,75-84 years,75-84,Male,M,203,550966,36.8
+Maine,23,85+ years,85+,Female,F,13,361410,Unreliable
+Maine,23,85+ years,85+,Male,M,123,166645,73.8
+Maryland,24,5-14 years,5-14,Female,F,24,7072206,0.3
+Maryland,24,5-14 years,5-14,Male,M,76,7363733,1
+Maryland,24,15-24 years,15-24,Female,F,240,7101219,3.4
+Maryland,24,15-24 years,15-24,Male,M,1051,7368803,14.3
+Maryland,24,25-34 years,25-34,Female,F,281,7446401,3.8
+Maryland,24,25-34 years,25-34,Male,M,1274,7143746,17.8
+Maryland,24,35-44 years,35-44,Female,F,362,8223895,4.4
+Maryland,24,35-44 years,35-44,Male,M,1390,7682864,18.1
+Maryland,24,45-54 years,45-54,Female,F,499,8381408,6
+Maryland,24,45-54 years,45-54,Male,M,1593,7729088,20.6
+Maryland,24,55-64 years,55-64,Female,F,295,6465773,4.6
+Maryland,24,55-64 years,55-64,Male,M,1147,5836051,19.7
+Maryland,24,65-74 years,65-74,Female,F,154,4028898,3.8
+Maryland,24,65-74 years,65-74,Male,M,659,3373457,19.5
+Maryland,24,75-84 years,75-84,Female,F,93,2556672,3.6
+Maryland,24,75-84 years,75-84,Male,M,536,1745014,30.7
+Maryland,24,85+ years,85+,Female,F,42,1189731,3.5
+Maryland,24,85+ years,85+,Male,M,220,542031,40.6
+Massachusetts,25,5-14 years,5-14,Female,F,21,7493013,0.3
+Massachusetts,25,5-14 years,5-14,Male,M,55,7845821,0.7
+Massachusetts,25,15-24 years,15-24,Female,F,254,8576319,3
+Massachusetts,25,15-24 years,15-24,Male,M,896,8642017,10.4
+Massachusetts,25,25-34 years,25-34,Female,F,317,8517585,3.7
+Massachusetts,25,25-34 years,25-34,Male,M,1280,8328661,15.4
+Massachusetts,25,35-44 years,35-44,Female,F,472,9092443,5.2
+Massachusetts,25,35-44 years,35-44,Male,M,1530,8729456,17.5
+Massachusetts,25,45-54 years,45-54,Female,F,566,9345447,6.1
+Massachusetts,25,45-54 years,45-54,Male,M,1712,8861385,19.3
+Massachusetts,25,55-64 years,55-64,Female,F,390,7397231,5.3
+Massachusetts,25,55-64 years,55-64,Male,M,1119,6791923,16.5
+Massachusetts,25,65-74 years,65-74,Female,F,154,4890356,3.1
+Massachusetts,25,65-74 years,65-74,Male,M,511,4098048,12.5
+Massachusetts,25,75-84 years,75-84,Female,F,85,3504955,2.4
+Massachusetts,25,75-84 years,75-84,Male,M,335,2354990,14.2
+Massachusetts,25,85+ years,85+,Female,F,36,1836427,2
+Massachusetts,25,85+ years,85+,Male,M,187,797365,23.5
+Michigan,26,5-14 years,5-14,Female,F,77,12589223,0.6
+Michigan,26,5-14 years,5-14,Male,M,146,13208186,1.1
+Michigan,26,15-24 years,15-24,Female,F,493,13101152,3.8
+Michigan,26,15-24 years,15-24,Male,M,2435,13632892,17.9
+Michigan,26,25-34 years,25-34,Female,F,638,11765081,5.4
+Michigan,26,25-34 years,25-34,Male,M,2911,11806675,24.7
+Michigan,26,35-44 years,35-44,Female,F,988,13057579,7.6
+Michigan,26,35-44 years,35-44,Male,M,3357,12874967,26.1
+Michigan,26,45-54 years,45-54,Female,F,1130,13897982,8.1
+Michigan,26,45-54 years,45-54,Male,M,3714,13524755,27.5
+Michigan,26,55-64 years,55-64,Female,F,736,11323690,6.5
+Michigan,26,55-64 years,55-64,Male,M,2485,10704407,23.2
+Michigan,26,65-74 years,65-74,Female,F,302,7468731,4
+Michigan,26,65-74 years,65-74,Male,M,1396,6494940,21.5
+Michigan,26,75-84 years,75-84,Female,F,162,5007447,3.2
+Michigan,26,75-84 years,75-84,Male,M,1081,3527892,30.6
+Michigan,26,85+ years,85+,Female,F,53,2334993,2.3
+Michigan,26,85+ years,85+,Male,M,457,1082885,42.2
+Minnesota,27,5-14 years,5-14,Female,F,38,6635102,0.6
+Minnesota,27,5-14 years,5-14,Male,M,102,6962442,1.5
+Minnesota,27,15-24 years,15-24,Female,F,276,6755528,4.1
+Minnesota,27,15-24 years,15-24,Male,M,1427,7035188,20.3
+Minnesota,27,25-34 years,25-34,Female,F,334,6562210,5.1
+Minnesota,27,25-34 years,25-34,Male,M,1512,6760015,22.4
+Minnesota,27,35-44 years,35-44,Female,F,483,6887411,7
+Minnesota,27,35-44 years,35-44,Male,M,1643,7016543,23.4
+Minnesota,27,45-54 years,45-54,Female,F,541,7118432,7.6
+Minnesota,27,45-54 years,45-54,Male,M,1813,7153761,25.3
+Minnesota,27,55-64 years,55-64,Female,F,361,5563810,6.5
+Minnesota,27,55-64 years,55-64,Male,M,1258,5448862,23.1
+Minnesota,27,65-74 years,65-74,Female,F,112,3560492,3.1
+Minnesota,27,65-74 years,65-74,Male,M,606,3209984,18.9
+Minnesota,27,75-84 years,75-84,Female,F,74,2456492,3
+Minnesota,27,75-84 years,75-84,Male,M,464,1804166,25.7
+Minnesota,27,85+ years,85+,Female,F,22,1332352,1.7
+Minnesota,27,85+ years,85+,Male,M,204,620339,32.9
+Mississippi,28,5-14 years,5-14,Female,F,12,3892890,Unreliable
+Mississippi,28,5-14 years,5-14,Male,M,43,4061664,1.1
+Mississippi,28,15-24 years,15-24,Female,F,116,4114580,2.8
+Mississippi,28,15-24 years,15-24,Male,M,796,4219226,18.9
+Mississippi,28,25-34 years,25-34,Female,F,226,3704360,6.1
+Mississippi,28,25-34 years,25-34,Male,M,960,3573798,26.9
+Mississippi,28,35-44 years,35-44,Female,F,310,3795810,8.2
+Mississippi,28,35-44 years,35-44,Male,M,1040,3594195,28.9
+Mississippi,28,45-54 years,45-54,Female,F,307,3851539,8
+Mississippi,28,45-54 years,45-54,Male,M,1037,3621054,28.6
+Mississippi,28,55-64 years,55-64,Female,F,225,3194568,7
+Mississippi,28,55-64 years,55-64,Male,M,785,2916695,26.9
+Mississippi,28,65-74 years,65-74,Female,F,116,2225680,5.2
+Mississippi,28,65-74 years,65-74,Male,M,505,1859332,27.2
+Mississippi,28,75-84 years,75-84,Female,F,35,1412122,2.5
+Mississippi,28,75-84 years,75-84,Male,M,378,921214,41
+Mississippi,28,85+ years,85+,Female,F,11,600654,Unreliable
+Mississippi,28,85+ years,85+,Male,M,131,249098,52.6
+Missouri,29,5-14 years,5-14,Female,F,44,7329453,0.6
+Missouri,29,5-14 years,5-14,Male,M,102,7677272,1.3
+Missouri,29,15-24 years,15-24,Female,F,359,7702372,4.7
+Missouri,29,15-24 years,15-24,Male,M,1717,7958586,21.6
+Missouri,29,25-34 years,25-34,Female,F,462,7272703,6.4
+Missouri,29,25-34 years,25-34,Male,M,2100,7244761,29
+Missouri,29,35-44 years,35-44,Female,F,708,7571790,9.4
+Missouri,29,35-44 years,35-44,Male,M,2440,7470506,32.7
+Missouri,29,45-54 years,45-54,Female,F,827,7952508,10.4
+Missouri,29,45-54 years,45-54,Male,M,2558,7687860,33.3
+Missouri,29,55-64 years,55-64,Female,F,511,6640160,7.7
+Missouri,29,55-64 years,55-64,Male,M,1701,6158618,27.6
+Missouri,29,65-74 years,65-74,Female,F,210,4595157,4.6
+Missouri,29,65-74 years,65-74,Male,M,1047,3961426,26.4
+Missouri,29,75-84 years,75-84,Female,F,119,3074270,3.9
+Missouri,29,75-84 years,75-84,Male,M,853,2163529,39.4
+Missouri,29,85+ years,85+,Female,F,49,1462155,3.4
+Missouri,29,85+ years,85+,Male,M,363,651929,55.7
+Montana,30,5-14 years,5-14,Female,F,18,1156644,Unreliable
+Montana,30,5-14 years,5-14,Male,M,40,1218810,3.3
+Montana,30,15-24 years,15-24,Female,F,99,1243662,8
+Montana,30,15-24 years,15-24,Male,M,457,1353488,33.8
+Montana,30,25-34 years,25-34,Female,F,118,1074639,11
+Montana,30,25-34 years,25-34,Male,M,555,1130791,49.1
+Montana,30,35-44 years,35-44,Female,F,177,1161616,15.2
+Montana,30,35-44 years,35-44,Male,M,518,1171731,44.2
+Montana,30,45-54 years,45-54,Female,F,161,1346891,12
+Montana,30,45-54 years,45-54,Male,M,575,1338837,42.9
+Montana,30,55-64 years,55-64,Female,F,151,1175326,12.8
+Montana,30,55-64 years,55-64,Male,M,495,1179787,42
+Montana,30,65-74 years,65-74,Female,F,55,769621,7.1
+Montana,30,65-74 years,65-74,Male,M,278,753108,36.9
+Montana,30,75-84 years,75-84,Female,F,19,487494,Unreliable
+Montana,30,75-84 years,75-84,Male,M,222,395385,56.1
+Montana,30,85+ years,85+,Male,M,132,126067,104.7
+Nebraska,31,5-14 years,5-14,Female,F,16,2345575,Unreliable
+Nebraska,31,5-14 years,5-14,Male,M,34,2455148,1.4
+Nebraska,31,15-24 years,15-24,Female,F,100,2437679,4.1
+Nebraska,31,15-24 years,15-24,Male,M,537,2560783,21
+Nebraska,31,25-34 years,25-34,Female,F,100,2195269,4.6
+Nebraska,31,25-34 years,25-34,Male,M,528,2294019,23
+Nebraska,31,35-44 years,35-44,Female,F,146,2219607,6.6
+Nebraska,31,35-44 years,35-44,Male,M,555,2268886,24.5
+Nebraska,31,45-54 years,45-54,Female,F,171,2319226,7.4
+Nebraska,31,45-54 years,45-54,Male,M,586,2319786,25.3
+Nebraska,31,55-64 years,55-64,Female,F,109,1882016,5.8
+Nebraska,31,55-64 years,55-64,Male,M,410,1831197,22.4
+Nebraska,31,65-74 years,65-74,Female,F,37,1279157,2.9
+Nebraska,31,65-74 years,65-74,Male,M,209,1132571,18.5
+Nebraska,31,75-84 years,75-84,Female,F,25,929969,2.7
+Nebraska,31,75-84 years,75-84,Male,M,208,669056,31.1
+Nebraska,31,85+ years,85+,Male,M,80,229976,34.8
+Nevada,32,5-14 years,5-14,Female,F,33,3209561,1
+Nevada,32,5-14 years,5-14,Male,M,47,3366160,1.4
+Nevada,32,15-24 years,15-24,Female,F,186,3043273,6.1
+Nevada,32,15-24 years,15-24,Male,M,731,3240958,22.6
+Nevada,32,25-34 years,25-34,Female,F,289,3429815,8.4
+Nevada,32,25-34 years,25-34,Male,M,1085,3625337,29.9
+Nevada,32,35-44 years,35-44,Female,F,412,3396805,12.1
+Nevada,32,35-44 years,35-44,Male,M,1224,3605533,33.9
+Nevada,32,45-54 years,45-54,Female,F,526,3255177,16.2
+Nevada,32,45-54 years,45-54,Male,M,1451,3349432,43.3
+Nevada,32,55-64 years,55-64,Female,F,379,2776616,13.6
+Nevada,32,55-64 years,55-64,Male,M,1197,2705913,44.2
+Nevada,32,65-74 years,65-74,Female,F,189,1866549,10.1
+Nevada,32,65-74 years,65-74,Male,M,788,1798814,43.8
+Nevada,32,75-84 years,75-84,Female,F,103,973483,10.6
+Nevada,32,75-84 years,75-84,Male,M,603,836678,72.1
+Nevada,32,85+ years,85+,Female,F,29,340454,8.5
+Nevada,32,85+ years,85+,Male,M,204,197881,103.1
+New Hampshire,33,5-14 years,5-14,Male,M,20,1612714,1.2
+New Hampshire,33,15-24 years,15-24,Female,F,69,1624824,4.2
+New Hampshire,33,15-24 years,15-24,Male,M,334,1681586,19.9
+New Hampshire,33,25-34 years,25-34,Female,F,106,1434825,7.4
+New Hampshire,33,25-34 years,25-34,Male,M,386,1449220,26.6
+New Hampshire,33,35-44 years,35-44,Female,F,158,1814698,8.7
+New Hampshire,33,35-44 years,35-44,Male,M,481,1783810,27
+New Hampshire,33,45-54 years,45-54,Female,F,192,1990887,9.6
+New Hampshire,33,45-54 years,45-54,Male,M,614,1962972,31.3
+New Hampshire,33,55-64 years,55-64,Female,F,120,1562114,7.7
+New Hampshire,33,55-64 years,55-64,Male,M,423,1526712,27.7
+New Hampshire,33,65-74 years,65-74,Female,F,63,971132,6.5
+New Hampshire,33,65-74 years,65-74,Male,M,201,893678,22.5
+New Hampshire,33,75-84 years,75-84,Female,F,27,619197,4.4
+New Hampshire,33,75-84 years,75-84,Male,M,146,454602,32.1
+New Hampshire,33,85+ years,85+,Male,M,79,142343,55.5
+New Jersey,34,5-14 years,5-14,Female,F,28,10764294,0.3
+New Jersey,34,5-14 years,5-14,Male,M,45,11265924,0.4
+New Jersey,34,15-24 years,15-24,Female,F,288,10164283,2.8
+New Jersey,34,15-24 years,15-24,Male,M,1118,10787377,10.4
+New Jersey,34,25-34 years,25-34,Female,F,365,10783508,3.4
+New Jersey,34,25-34 years,25-34,Male,M,1395,10822421,12.9
+New Jersey,34,35-44 years,35-44,Female,F,502,12504441,4
+New Jersey,34,35-44 years,35-44,Male,M,1781,12119527,14.7
+New Jersey,34,45-54 years,45-54,Female,F,620,12610851,4.9
+New Jersey,34,45-54 years,45-54,Male,M,2101,11973471,17.5
+New Jersey,34,55-64 years,55-64,Female,F,428,9813224,4.4
+New Jersey,34,55-64 years,55-64,Male,M,1493,8958645,16.7
+New Jersey,34,65-74 years,65-74,Female,F,199,6545448,3
+New Jersey,34,65-74 years,65-74,Male,M,755,5393861,14
+New Jersey,34,75-84 years,75-84,Female,F,136,4580546,3
+New Jersey,34,75-84 years,75-84,Male,M,619,3059609,20.2
+New Jersey,34,85+ years,85+,Female,F,53,2203383,2.4
+New Jersey,34,85+ years,85+,Male,M,282,997084,28.3
+New Mexico,35,5-14 years,5-14,Female,F,26,2619332,1
+New Mexico,35,5-14 years,5-14,Male,M,66,2713803,2.4
+New Mexico,35,15-24 years,15-24,Female,F,210,2644025,7.9
+New Mexico,35,15-24 years,15-24,Male,M,990,2806745,35.3
+New Mexico,35,25-34 years,25-34,Female,F,222,2402718,9.2
+New Mexico,35,25-34 years,25-34,Male,M,1057,2478451,42.6
+New Mexico,35,35-44 years,35-44,Female,F,312,2463844,12.7
+New Mexico,35,35-44 years,35-44,Male,M,1001,2424857,41.3
+New Mexico,35,45-54 years,45-54,Female,F,401,2616183,15.3
+New Mexico,35,45-54 years,45-54,Male,M,1016,2501139,40.6
+New Mexico,35,55-64 years,55-64,Female,F,271,2248925,12.1
+New Mexico,35,55-64 years,55-64,Male,M,728,2081008,35
+New Mexico,35,65-74 years,65-74,Female,F,122,1518469,8
+New Mexico,35,65-74 years,65-74,Male,M,501,1363237,36.8
+New Mexico,35,75-84 years,75-84,Female,F,49,901158,5.4
+New Mexico,35,75-84 years,75-84,Male,M,378,708620,53.3
+New Mexico,35,85+ years,85+,Female,F,23,374699,6.1
+New Mexico,35,85+ years,85+,Male,M,165,206602,79.9
+New York,36,5-14 years,5-14,Female,F,75,22785345,0.3
+New York,36,5-14 years,5-14,Male,M,132,23837594,0.6
+New York,36,15-24 years,15-24,Female,F,678,24976659,2.7
+New York,36,15-24 years,15-24,Male,M,2664,25766430,10.3
+New York,36,25-34 years,25-34,Female,F,870,26143878,3.3
+New York,36,25-34 years,25-34,Male,M,3271,25517923,12.8
+New York,36,35-44 years,35-44,Female,F,1029,26652406,3.9
+New York,36,35-44 years,35-44,Male,M,3873,25663678,15.1
+New York,36,45-54 years,45-54,Female,F,1361,26875826,5.1
+New York,36,45-54 years,45-54,Male,M,4443,25260972,17.6
+New York,36,55-64 years,55-64,Female,F,989,21712680,4.6
+New York,36,55-64 years,55-64,Male,M,3216,19465711,16.5
+New York,36,65-74 years,65-74,Female,F,495,14627788,3.4
+New York,36,65-74 years,65-74,Male,M,1797,11916331,15.1
+New York,36,75-84 years,75-84,Female,F,317,10018056,3.2
+New York,36,75-84 years,75-84,Male,M,1281,6683383,19.2
+New York,36,85+ years,85+,Female,F,148,4913841,3
+New York,36,85+ years,85+,Male,M,523,2208336,23.7
+North Carolina,37,5-14 years,5-14,Female,F,44,11320612,0.4
+North Carolina,37,5-14 years,5-14,Male,M,139,11834727,1.2
+North Carolina,37,15-24 years,15-24,Female,F,436,11673983,3.7
+North Carolina,37,15-24 years,15-24,Male,M,2155,12393694,17.4
+North Carolina,37,25-34 years,25-34,Female,F,675,11876711,5.7
+North Carolina,37,25-34 years,25-34,Male,M,2689,11752319,22.9
+North Carolina,37,35-44 years,35-44,Female,F,1102,12610455,8.7
+North Carolina,37,35-44 years,35-44,Male,M,3092,12240848,25.3
+North Carolina,37,45-54 years,45-54,Female,F,1311,12490467,10.5
+North Carolina,37,45-54 years,45-54,Male,M,3260,11830109,27.6
+North Carolina,37,55-64 years,55-64,Female,F,878,10367235,8.5
+North Carolina,37,55-64 years,55-64,Male,M,2401,9386375,25.6
+North Carolina,37,65-74 years,65-74,Female,F,383,7124666,5.4
+North Carolina,37,65-74 years,65-74,Male,M,1629,5999196,27.2
+North Carolina,37,75-84 years,75-84,Female,F,166,4366801,3.8
+North Carolina,37,75-84 years,75-84,Male,M,1083,2947545,36.7
+North Carolina,37,85+ years,85+,Female,F,62,1856768,3.3
+North Carolina,37,85+ years,85+,Male,M,407,788861,51.6
+North Dakota,38,5-14 years,5-14,Male,M,10,836603,Unreliable
+North Dakota,38,15-24 years,15-24,Female,F,56,996479,5.6
+North Dakota,38,15-24 years,15-24,Male,M,348,1119021,31.1
+North Dakota,38,25-34 years,25-34,Female,F,66,790693,8.3
+North Dakota,38,25-34 years,25-34,Male,M,306,895100,34.2
+North Dakota,38,35-44 years,35-44,Female,F,58,776828,7.5
+North Dakota,38,35-44 years,35-44,Male,M,262,822659,31.8
+North Dakota,38,45-54 years,45-54,Female,F,68,855266,8
+North Dakota,38,45-54 years,45-54,Male,M,282,889051,31.7
+North Dakota,38,55-64 years,55-64,Female,F,37,698882,5.3
+North Dakota,38,55-64 years,55-64,Male,M,198,721672,27.4
+North Dakota,38,65-74 years,65-74,Female,F,13,481367,Unreliable
+North Dakota,38,65-74 years,65-74,Male,M,84,442115,19
+North Dakota,38,75-84 years,75-84,Female,F,10,368012,Unreliable
+North Dakota,38,75-84 years,75-84,Male,M,76,272322,27.9
+North Dakota,38,85+ years,85+,Male,M,30,101266,29.6
+Ohio,39,5-14 years,5-14,Female,F,71,14368781,0.5
+Ohio,39,5-14 years,5-14,Male,M,192,15029983,1.3
+Ohio,39,15-24 years,15-24,Female,F,576,14731059,3.9
+Ohio,39,15-24 years,15-24,Male,M,2731,15185267,18
+Ohio,39,25-34 years,25-34,Female,F,717,13886935,5.2
+Ohio,39,25-34 years,25-34,Male,M,3483,13818162,25.2
+Ohio,39,35-44 years,35-44,Female,F,1098,15016265,7.3
+Ohio,39,35-44 years,35-44,Male,M,3779,14738494,25.6
+Ohio,39,45-54 years,45-54,Female,F,1290,16000596,8.1
+Ohio,39,45-54 years,45-54,Male,M,4108,15456421,26.6
+Ohio,39,55-64 years,55-64,Female,F,851,13181836,6.5
+Ohio,39,55-64 years,55-64,Male,M,2936,12294408,23.9
+Ohio,39,65-74 years,65-74,Female,F,370,8962774,4.1
+Ohio,39,65-74 years,65-74,Male,M,1710,7578907,22.6
+Ohio,39,75-84 years,75-84,Female,F,174,6207988,2.8
+Ohio,39,75-84 years,75-84,Male,M,1441,4226530,34.1
+Ohio,39,85+ years,85+,Female,F,71,2849732,2.5
+Ohio,39,85+ years,85+,Male,M,561,1276581,43.9
+Oklahoma,40,5-14 years,5-14,Female,F,27,4707003,0.6
+Oklahoma,40,5-14 years,5-14,Male,M,90,4939904,1.8
+Oklahoma,40,15-24 years,15-24,Female,F,277,4926455,5.6
+Oklahoma,40,15-24 years,15-24,Male,M,1286,5257597,24.5
+Oklahoma,40,25-34 years,25-34,Female,F,392,4576096,8.6
+Oklahoma,40,25-34 years,25-34,Male,M,1658,4729399,35.1
+Oklahoma,40,35-44 years,35-44,Female,F,492,4564983,10.8
+Oklahoma,40,35-44 years,35-44,Male,M,1711,4595607,37.2
+Oklahoma,40,45-54 years,45-54,Female,F,595,4735120,12.6
+Oklahoma,40,45-54 years,45-54,Male,M,1653,4629285,35.7
+Oklahoma,40,55-64 years,55-64,Female,F,352,4032584,8.7
+Oklahoma,40,55-64 years,55-64,Male,M,1181,3770513,31.3
+Oklahoma,40,65-74 years,65-74,Female,F,144,2840660,5.1
+Oklahoma,40,65-74 years,65-74,Male,M,729,2459244,29.6
+Oklahoma,40,75-84 years,75-84,Female,F,73,1821314,4
+Oklahoma,40,75-84 years,75-84,Male,M,560,1312570,42.7
+Oklahoma,40,85+ years,85+,Female,F,23,791921,2.9
+Oklahoma,40,85+ years,85+,Male,M,199,374806,53.1
+Oregon,41,5-14 years,5-14,Female,F,32,4434964,0.7
+Oregon,41,5-14 years,5-14,Male,M,50,4647375,1.1
+Oregon,41,15-24 years,15-24,Female,F,235,4673086,5
+Oregon,41,15-24 years,15-24,Male,M,1069,4882514,21.9
+Oregon,41,25-34 years,25-34,Female,F,302,4780434,6.3
+Oregon,41,25-34 years,25-34,Male,M,1353,4955430,27.3
+Oregon,41,35-44 years,35-44,Female,F,528,4831344,10.9
+Oregon,41,35-44 years,35-44,Male,M,1573,4926615,31.9
+Oregon,41,45-54 years,45-54,Female,F,727,5074137,14.3
+Oregon,41,45-54 years,45-54,Male,M,1834,4971828,36.9
+Oregon,41,55-64 years,55-64,Female,F,435,4407562,9.9
+Oregon,41,55-64 years,55-64,Male,M,1429,4181814,34.2
+Oregon,41,65-74 years,65-74,Female,F,206,2889614,7.1
+Oregon,41,65-74 years,65-74,Male,M,888,2621053,33.9
+Oregon,41,75-84 years,75-84,Female,F,125,1837317,6.8
+Oregon,41,75-84 years,75-84,Male,M,754,1399281,53.9
+Oregon,41,85+ years,85+,Female,F,53,906561,5.8
+Oregon,41,85+ years,85+,Male,M,372,470860,79
+Pennsylvania,42,5-14 years,5-14,Female,F,73,14618606,0.5
+Pennsylvania,42,5-14 years,5-14,Male,M,167,15328366,1.1
+Pennsylvania,42,15-24 years,15-24,Female,F,609,15911250,3.8
+Pennsylvania,42,15-24 years,15-24,Male,M,2912,16447296,17.7
+Pennsylvania,42,25-34 years,25-34,Female,F,781,14654596,5.3
+Pennsylvania,42,25-34 years,25-34,Male,M,3534,14755248,24
+Pennsylvania,42,35-44 years,35-44,Female,F,1192,16273987,7.3
+Pennsylvania,42,35-44 years,35-44,Male,M,4290,15985560,26.8
+Pennsylvania,42,45-54 years,45-54,Female,F,1539,17677678,8.7
+Pennsylvania,42,45-54 years,45-54,Male,M,5102,17139322,29.8
+Pennsylvania,42,55-64 years,55-64,Female,F,1004,14740709,6.8
+Pennsylvania,42,55-64 years,55-64,Male,M,3625,13793115,26.3
+Pennsylvania,42,65-74 years,65-74,Female,F,390,10469192,3.7
+Pennsylvania,42,65-74 years,65-74,Male,M,2022,8827260,22.9
+Pennsylvania,42,75-84 years,75-84,Female,F,224,7825090,2.9
+Pennsylvania,42,75-84 years,75-84,Male,M,1672,5280889,31.7
+Pennsylvania,42,85+ years,85+,Female,F,85,3801772,2.2
+Pennsylvania,42,85+ years,85+,Male,M,635,1687720,37.6
+Rhode Island,44,15-24 years,15-24,Female,F,38,1480571,2.6
+Rhode Island,44,15-24 years,15-24,Male,M,172,1495264,11.5
+Rhode Island,44,25-34 years,25-34,Female,F,53,1287596,4.1
+Rhode Island,44,25-34 years,25-34,Male,M,228,1273051,17.9
+Rhode Island,44,35-44 years,35-44,Female,F,91,1419998,6.4
+Rhode Island,44,35-44 years,35-44,Male,M,315,1362163,23.1
+Rhode Island,44,45-54 years,45-54,Female,F,122,1504236,8.1
+Rhode Island,44,45-54 years,45-54,Male,M,368,1414496,26
+Rhode Island,44,55-64 years,55-64,Female,F,73,1196297,6.1
+Rhode Island,44,55-64 years,55-64,Male,M,240,1105131,21.7
+Rhode Island,44,65-74 years,65-74,Female,F,28,800115,3.5
+Rhode Island,44,65-74 years,65-74,Male,M,90,670923,13.4
+Rhode Island,44,75-84 years,75-84,Female,F,15,614268,Unreliable
+Rhode Island,44,75-84 years,75-84,Male,M,64,403700,15.9
+Rhode Island,44,85+ years,85+,Male,M,33,141568,23.3
+South Carolina,45,5-14 years,5-14,Female,F,30,5499849,0.5
+South Carolina,45,5-14 years,5-14,Male,M,69,5721205,1.2
+South Carolina,45,15-24 years,15-24,Female,F,192,5892751,3.3
+South Carolina,45,15-24 years,15-24,Male,M,1142,6162199,18.5
+South Carolina,45,25-34 years,25-34,Female,F,341,5647128,6
+South Carolina,45,25-34 years,25-34,Male,M,1415,5556863,25.5
+South Carolina,45,35-44 years,35-44,Female,F,470,5894104,8
+South Carolina,45,35-44 years,35-44,Male,M,1552,5666049,27.4
+South Carolina,45,45-54 years,45-54,Female,F,681,6116695,11.1
+South Carolina,45,45-54 years,45-54,Male,M,1675,5708373,29.3
+South Carolina,45,55-64 years,55-64,Female,F,491,5324086,9.2
+South Carolina,45,55-64 years,55-64,Male,M,1338,4773581,28
+South Carolina,45,65-74 years,65-74,Female,F,202,3719156,5.4
+South Carolina,45,65-74 years,65-74,Male,M,823,3192929,25.8
+South Carolina,45,75-84 years,75-84,Female,F,88,2154523,4.1
+South Carolina,45,75-84 years,75-84,Male,M,565,1501877,37.6
+South Carolina,45,85+ years,85+,Female,F,24,881350,2.7
+South Carolina,45,85+ years,85+,Male,M,171,379058,45.1
+South Dakota,46,5-14 years,5-14,Female,F,24,1033904,2.3
+South Dakota,46,5-14 years,5-14,Male,M,34,1090752,3.1
+South Dakota,46,15-24 years,15-24,Female,F,104,1079509,9.6
+South Dakota,46,15-24 years,15-24,Male,M,437,1155117,37.8
+South Dakota,46,25-34 years,25-34,Female,F,72,925307,7.8
+South Dakota,46,25-34 years,25-34,Male,M,346,985294,35.1
+South Dakota,46,35-44 years,35-44,Female,F,85,944471,9
+South Dakota,46,35-44 years,35-44,Male,M,317,978326,32.4
+South Dakota,46,45-54 years,45-54,Female,F,91,1020647,8.9
+South Dakota,46,45-54 years,45-54,Male,M,351,1044003,33.6
+South Dakota,46,55-64 years,55-64,Female,F,50,851578,5.9
+South Dakota,46,55-64 years,55-64,Male,M,221,857288,25.8
+South Dakota,46,65-74 years,65-74,Female,F,19,587373,Unreliable
+South Dakota,46,65-74 years,65-74,Male,M,134,541762,24.7
+South Dakota,46,75-84 years,75-84,Female,F,13,431053,Unreliable
+South Dakota,46,75-84 years,75-84,Male,M,91,324522,28
+South Dakota,46,85+ years,85+,Male,M,38,113151,33.6
+Tennessee,47,5-14 years,5-14,Female,F,28,7595664,0.4
+Tennessee,47,5-14 years,5-14,Male,M,75,7958828,0.9
+Tennessee,47,15-24 years,15-24,Female,F,293,7893021,3.7
+Tennessee,47,15-24 years,15-24,Male,M,1583,8124552,19.5
+Tennessee,47,25-34 years,25-34,Female,F,547,7936610,6.9
+Tennessee,47,25-34 years,25-34,Male,M,2212,7845327,28.2
+Tennessee,47,35-44 years,35-44,Female,F,796,8335503,9.5
+Tennessee,47,35-44 years,35-44,Male,M,2571,8114500,31.7
+Tennessee,47,45-54 years,45-54,Female,F,967,8520495,11.3
+Tennessee,47,45-54 years,45-54,Male,M,2612,8096785,32.3
+Tennessee,47,55-64 years,55-64,Female,F,642,7146853,9
+Tennessee,47,55-64 years,55-64,Male,M,1985,6576931,30.2
+Tennessee,47,65-74 years,65-74,Female,F,251,4903589,5.1
+Tennessee,47,65-74 years,65-74,Male,M,1325,4206179,31.5
+Tennessee,47,75-84 years,75-84,Female,F,98,3018814,3.2
+Tennessee,47,75-84 years,75-84,Male,M,887,2041026,43.5
+Tennessee,47,85+ years,85+,Female,F,41,1281928,3.2
+Tennessee,47,85+ years,85+,Male,M,299,546717,54.7
+Texas,48,5-14 years,5-14,Female,F,154,34053664,0.5
+Texas,48,5-14 years,5-14,Male,M,361,35526410,1
+Texas,48,15-24 years,15-24,Female,F,1300,33245249,3.9
+Texas,48,15-24 years,15-24,Male,M,6172,35404964,17.4
+Texas,48,25-34 years,25-34,Female,F,1802,33306520,5.4
+Texas,48,25-34 years,25-34,Male,M,7210,34138863,21.1
+Texas,48,35-44 years,35-44,Female,F,2216,32953325,6.7
+Texas,48,35-44 years,35-44,Male,M,7384,32909191,22.4
+Texas,48,45-54 years,45-54,Female,F,2650,30620196,8.7
+Texas,48,45-54 years,45-54,Male,M,7610,30074006,25.3
+Texas,48,55-64 years,55-64,Female,F,1637,23354187,7
+Texas,48,55-64 years,55-64,Male,M,5381,21910688,24.6
+Texas,48,65-74 years,65-74,Female,F,661,14928082,4.4
+Texas,48,65-74 years,65-74,Male,M,3170,12935877,24.5
+Texas,48,75-84 years,75-84,Female,F,360,9009694,4
+Texas,48,75-84 years,75-84,Male,M,2341,6465109,36.2
+Texas,48,85+ years,85+,Female,F,108,3811624,2.8
+Texas,48,85+ years,85+,Male,M,991,1837590,53.9
+Texas,48,Not Stated,NS,Male,M,12,Not Applicable,Not Applicable
+Utah,49,5-14 years,5-14,Female,F,27,4166219,0.6
+Utah,49,5-14 years,5-14,Male,M,78,4404859,1.8
+Utah,49,15-24 years,15-24,Female,F,240,4303123,5.6
+Utah,49,15-24 years,15-24,Male,M,1219,4406063,27.7
+Utah,49,25-34 years,25-34,Female,F,342,3751578,9.1
+Utah,49,25-34 years,25-34,Male,M,1378,3923457,35.1
+Utah,49,35-44 years,35-44,Female,F,443,3131465,14.1
+Utah,49,35-44 years,35-44,Male,M,1251,3240288,38.6
+Utah,49,45-54 years,45-54,Female,F,401,2733577,14.7
+Utah,49,45-54 years,45-54,Male,M,1168,2736433,42.7
+Utah,49,55-64 years,55-64,Female,F,252,2118365,11.9
+Utah,49,55-64 years,55-64,Male,M,758,2044160,37.1
+Utah,49,65-74 years,65-74,Female,F,77,1359602,5.7
+Utah,49,65-74 years,65-74,Male,M,387,1231495,31.4
+Utah,49,75-84 years,75-84,Female,F,33,833462,4
+Utah,49,75-84 years,75-84,Male,M,270,665691,40.6
+Utah,49,85+ years,85+,Female,F,10,347719,Unreliable
+Utah,49,85+ years,85+,Male,M,106,202336,52.4
+Vermont,50,15-24 years,15-24,Female,F,40,824978,4.8
+Vermont,50,15-24 years,15-24,Male,M,166,876451,18.9
+Vermont,50,25-34 years,25-34,Female,F,40,673100,5.9
+Vermont,50,25-34 years,25-34,Male,M,212,668939,31.7
+Vermont,50,35-44 years,35-44,Female,F,62,815830,7.6
+Vermont,50,35-44 years,35-44,Male,M,244,790110,30.9
+Vermont,50,45-54 years,45-54,Female,F,95,938835,10.1
+Vermont,50,45-54 years,45-54,Male,M,289,905517,31.9
+Vermont,50,55-64 years,55-64,Female,F,64,779606,8.2
+Vermont,50,55-64 years,55-64,Male,M,226,760927,29.7
+Vermont,50,65-74 years,65-74,Female,F,27,494210,5.5
+Vermont,50,65-74 years,65-74,Male,M,142,454845,31.2
+Vermont,50,75-84 years,75-84,Female,F,11,315657,Unreliable
+Vermont,50,75-84 years,75-84,Male,M,99,232200,42.6
+Vermont,50,85+ years,85+,Male,M,46,72222,63.7
+Virginia,51,5-14 years,5-14,Female,F,42,9433360,0.4
+Virginia,51,5-14 years,5-14,Male,M,82,9835244,0.8
+Virginia,51,15-24 years,15-24,Female,F,368,10021224,3.7
+Virginia,51,15-24 years,15-24,Male,M,1808,10614839,17
+Virginia,51,25-34 years,25-34,Female,F,595,10241334,5.8
+Virginia,51,25-34 years,25-34,Male,M,2230,10348245,21.5
+Virginia,51,35-44 years,35-44,Female,F,897,10946986,8.2
+Virginia,51,35-44 years,35-44,Male,M,2467,10690025,23.1
+Virginia,51,45-54 years,45-54,Female,F,979,11020000,8.9
+Virginia,51,45-54 years,45-54,Male,M,2732,10537093,25.9
+Virginia,51,55-64 years,55-64,Female,F,644,8684752,7.4
+Virginia,51,55-64 years,55-64,Male,M,2061,8070382,25.5
+Virginia,51,65-74 years,65-74,Female,F,286,5579774,5.1
+Virginia,51,65-74 years,65-74,Male,M,1314,4813026,27.3
+Virginia,51,75-84 years,75-84,Female,F,154,3434763,4.5
+Virginia,51,75-84 years,75-84,Male,M,922,2385123,38.7
+Virginia,51,85+ years,85+,Female,F,55,1508404,3.6
+Virginia,51,85+ years,85+,Male,M,397,675949,58.7
+Washington,53,5-14 years,5-14,Female,F,37,8046424,0.5
+Washington,53,5-14 years,5-14,Male,M,88,8445794,1
+Washington,53,15-24 years,15-24,Female,F,382,8273871,4.6
+Washington,53,15-24 years,15-24,Male,M,1880,8847437,21.2
+Washington,53,25-34 years,25-34,Female,F,550,8588166,6.4
+Washington,53,25-34 years,25-34,Male,M,2188,8968471,24.4
+Washington,53,35-44 years,35-44,Female,F,731,8805568,8.3
+Washington,53,35-44 years,35-44,Male,M,2390,8988009,26.6
+Washington,53,45-54 years,45-54,Female,F,1005,8942860,11.2
+Washington,53,45-54 years,45-54,Male,M,2647,8888646,29.8
+Washington,53,55-64 years,55-64,Female,F,716,7265504,9.9
+Washington,53,55-64 years,55-64,Male,M,1995,6991457,28.5
+Washington,53,65-74 years,65-74,Female,F,292,4513616,6.5
+Washington,53,65-74 years,65-74,Male,M,1159,4111433,28.2
+Washington,53,75-84 years,75-84,Female,F,165,2799511,5.9
+Washington,53,75-84 years,75-84,Male,M,925,2116227,43.7
+Washington,53,85+ years,85+,Female,F,76,1371974,5.5
+Washington,53,85+ years,85+,Male,M,474,701786,67.5
+West Virginia,54,5-14 years,5-14,Female,F,14,2001359,Unreliable
+West Virginia,54,5-14 years,5-14,Male,M,29,2108935,1.4
+West Virginia,54,15-24 years,15-24,Female,F,82,2214406,3.7
+West Virginia,54,15-24 years,15-24,Male,M,508,2325091,21.8
+West Virginia,54,25-34 years,25-34,Female,F,148,2081313,7.1
+West Virginia,54,25-34 years,25-34,Male,M,677,2126256,31.8
+West Virginia,54,35-44 years,35-44,Female,F,236,2318913,10.2
+West Virginia,54,35-44 years,35-44,Male,M,843,2313438,36.4
+West Virginia,54,45-54 years,45-54,Female,F,274,2574706,10.6
+West Virginia,54,45-54 years,45-54,Male,M,866,2533612,34.2
+West Virginia,54,55-64 years,55-64,Female,F,171,2311450,7.4
+West Virginia,54,55-64 years,55-64,Male,M,682,2227310,30.6
+West Virginia,54,65-74 years,65-74,Female,F,72,1671969,4.3
+West Virginia,54,65-74 years,65-74,Male,M,474,1477954,32.1
+West Virginia,54,75-84 years,75-84,Female,F,33,1109490,3
+West Virginia,54,75-84 years,75-84,Male,M,353,773690,45.6
+West Virginia,54,85+ years,85+,Male,M,128,207418,61.7
+Wisconsin,55,5-14 years,5-14,Female,F,45,6956646,0.6
+Wisconsin,55,5-14 years,5-14,Male,M,89,7290200,1.2
+Wisconsin,55,15-24 years,15-24,Female,F,348,7348327,4.7
+Wisconsin,55,15-24 years,15-24,Male,M,1602,7679095,20.9
+Wisconsin,55,25-34 years,25-34,Female,F,445,6599913,6.7
+Wisconsin,55,25-34 years,25-34,Male,M,1744,6854658,25.4
+Wisconsin,55,35-44 years,35-44,Female,F,579,7267768,8
+Wisconsin,55,35-44 years,35-44,Male,M,2040,7380755,27.6
+Wisconsin,55,45-54 years,45-54,Female,F,697,7724769,9
+Wisconsin,55,45-54 years,45-54,Male,M,2281,7763043,29.4
+Wisconsin,55,55-64 years,55-64,Female,F,457,6165009,7.4
+Wisconsin,55,55-64 years,55-64,Male,M,1504,6057412,24.8
+Wisconsin,55,65-74 years,65-74,Female,F,192,4086724,4.7
+Wisconsin,55,65-74 years,65-74,Male,M,801,3684764,21.7
+Wisconsin,55,75-84 years,75-84,Female,F,84,2869893,2.9
+Wisconsin,55,75-84 years,75-84,Male,M,575,2080062,27.6
+Wisconsin,55,85+ years,85+,Female,F,42,1476922,2.8
+Wisconsin,55,85+ years,85+,Male,M,264,675252,39.1
+Wyoming,56,5-14 years,5-14,Male,M,16,711357,Unreliable
+Wyoming,56,15-24 years,15-24,Female,F,57,709670,8
+Wyoming,56,15-24 years,15-24,Male,M,297,782819,37.9
+Wyoming,56,25-34 years,25-34,Female,F,54,647220,8.3
+Wyoming,56,25-34 years,25-34,Male,M,318,700548,45.4
+Wyoming,56,35-44 years,35-44,Female,F,94,652443,14.4
+Wyoming,56,35-44 years,35-44,Male,M,300,683882,43.9
+Wyoming,56,45-54 years,45-54,Female,F,112,732143,15.3
+Wyoming,56,45-54 years,45-54,Male,M,331,755941,43.8
+Wyoming,56,55-64 years,55-64,Female,F,64,610207,10.5
+Wyoming,56,55-64 years,55-64,Male,M,218,637524,34.2
+Wyoming,56,65-74 years,65-74,Female,F,24,378733,6.3
+Wyoming,56,65-74 years,65-74,Male,M,145,369704,39.2
+Wyoming,56,75-84 years,75-84,Female,F,15,229126,Unreliable
+Wyoming,56,75-84 years,75-84,Male,M,137,185015,74
+Wyoming,56,85+ years,85+,Male,M,58,54975,105.5
