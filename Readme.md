@@ -1,8 +1,2 @@
-Read Me
----------------------------
-Thank you for running our notebooks
-Before running our code, please run the following
-pip install mapsplotlib
-----------------------------
-For exploring the process of creating the graphs and cleaning the data for our project, please run the code from our data and graph notebooks
-Enjoycat Readme.md 
+Thank you for running our data. Please run a pip install mapsplotlib on your machine before running our data.
+To fully explore our data, please use the data.ipynb and graph.ipyb notebooks.
