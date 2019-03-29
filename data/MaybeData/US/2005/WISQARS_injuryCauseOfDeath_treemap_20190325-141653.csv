@@ -1,6 +1,0 @@
-intentName,intentId,crudeNumber,crudeRate,ageAdjustedRate,appliedFilters
-Unintentional,1,"117,809",39.9,39.4,"Start Year: 2005, End Year: 2005, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Suicide,2,"32,637",11.0,10.9,"Start Year: 2005, End Year: 2005, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Homicide,3,"18,124",6.1,6.1,"Start Year: 2005, End Year: 2005, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Undetermined,5,"4,742",1.6,1.6,"Start Year: 2005, End Year: 2005, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Legal Intervention,6,414,0.1,0.1,"Start Year: 2005, End Year: 2005, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
