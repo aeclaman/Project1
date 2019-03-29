@@ -1,6 +1,0 @@
-intentName,intentId,crudeNumber,crudeRate,ageAdjustedRate,appliedFilters
-Unintentional,1,"169,936",52.2,49.3,"Start Year: 2017, End Year: 2017, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Suicide,2,"47,173",14.5,14.0,"Start Year: 2017, End Year: 2017, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Homicide,3,"19,510",6.0,6.1,"Start Year: 2017, End Year: 2017, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Undetermined,5,"5,799",1.8,1.8,"Start Year: 2017, End Year: 2017, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
-Legal Intervention,6,616,0.2,0.2,"Start Year: 2017, End Year: 2017, All Intents All Injury Deaths, Age Range: All Ages, Sex: Male & Female, Race: All Races, Ethinicity: All Ethinicities, State: All States"
