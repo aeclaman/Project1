@@ -1,0 +1,1 @@
+Thank you for running our Who gets the Blues project. Please run a pip install mapsplotlib on your machine before running our data, to fully explore our data, please use the data.ipynb and graph.ipyb notebooks
